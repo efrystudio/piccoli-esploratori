@@ -25,5 +25,8 @@ di progetto.
 
 ## Stato attuale
 Il front-end funziona con dati di esempio (`data/activities.json`).
-`scripts/update_activities.py` è uno scheletro: la logica reale di
-scraping e classificazione con Claude verrà aggiunta nel prossimo passaggio.
+`scripts/update_activities.py` è ora la versione reale: scarica ogni
+fonte, la invia a Claude per l'estrazione e la classificazione, filtra
+e unisce i risultati. Richiede il secret `ANTHROPIC_API_KEY` per
+funzionare. `scripts/notify_telegram.py` invia le attività nuove nel
+gruppo Telegram, richiede `TELEGRAM_BOT_TOKEN` e `TELEGRAM_CHAT_ID`.
