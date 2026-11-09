@@ -1,21 +1,6 @@
 [
   {
     "id": 1,
-    "category": "Workshop",
-    "title": "Laboratorio di Lego e Robotica",
-    "desc": "Costruisci e programma piccoli robot con i mattoncini Lego",
-    "city": "Orbassano",
-    "venue": "Biblioteca Civica Carlo Maria Martini",
-    "date": "2026-11-08",
-    "time": "16:00",
-    "durationMin": 90,
-    "ageMin": 5,
-    "ageMax": 8,
-    "image": null,
-    "link": "https://www.comune.orbassano.to.it"
-  },
-  {
-    "id": 2,
     "category": "Teatro",
     "title": "Il Gatto con gli Stivali",
     "desc": "Spettacolo di burattini per tutta la famiglia",
@@ -30,7 +15,7 @@
     "link": "#"
   },
   {
-    "id": 3,
+    "id": 2,
     "category": "Letture Animate",
     "title": "Storie sotto le Stelle",
     "desc": "Letture ad alta voce con musica dal vivo per bambini",
@@ -45,7 +30,7 @@
     "link": "https://www.lelucidellarivalta.com/eventi/"
   },
   {
-    "id": 4,
+    "id": 3,
     "category": "Open Day",
     "title": "Porte Aperte al Castello",
     "desc": "Visita guidata gratuita per famiglie con bambini",
@@ -60,7 +45,7 @@
     "link": "https://www.castellodirivoli.org/educazione/attivita-famiglie/"
   },
   {
-    "id": 5,
+    "id": 4,
     "category": "Workshop",
     "title": "Laboratorio di Pasta Fresca",
     "desc": "Impariamo a fare tagliatelle e ravioli con le mani",
@@ -75,7 +60,7 @@
     "link": "https://www.comune.orbassano.to.it"
   },
   {
-    "id": 6,
+    "id": 5,
     "category": "Event",
     "title": "Festa d'Autunno in Biblioteca",
     "desc": "Giochi, castagne e travestimenti per i più piccoli",
