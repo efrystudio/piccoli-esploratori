@@ -1,21 +1,6 @@
 [
   {
     "id": 1,
-    "category": "Teatro",
-    "title": "Il Gatto con gli Stivali",
-    "desc": "Spettacolo di burattini per tutta la famiglia",
-    "city": "Rivoli",
-    "venue": "Teatro San Paolo",
-    "date": "2026-11-09",
-    "time": "16:30",
-    "durationMin": 60,
-    "ageMin": 4,
-    "ageMax": 9,
-    "image": null,
-    "link": "#"
-  },
-  {
-    "id": 2,
     "category": "Letture Animate",
     "title": "Storie sotto le Stelle",
     "desc": "Letture ad alta voce con musica dal vivo per bambini",
@@ -30,7 +15,7 @@
     "link": "https://www.lelucidellarivalta.com/eventi/"
   },
   {
-    "id": 3,
+    "id": 2,
     "category": "Open Day",
     "title": "Porte Aperte al Castello",
     "desc": "Visita guidata gratuita per famiglie con bambini",
@@ -45,7 +30,7 @@
     "link": "https://www.castellodirivoli.org/educazione/attivita-famiglie/"
   },
   {
-    "id": 4,
+    "id": 3,
     "category": "Workshop",
     "title": "Laboratorio di Pasta Fresca",
     "desc": "Impariamo a fare tagliatelle e ravioli con le mani",
@@ -60,7 +45,7 @@
     "link": "https://www.comune.orbassano.to.it"
   },
   {
-    "id": 5,
+    "id": 4,
     "category": "Event",
     "title": "Festa d'Autunno in Biblioteca",
     "desc": "Giochi, castagne e travestimenti per i più piccoli",
