@@ -1,36 +1,6 @@
 [
   {
     "id": 1,
-    "category": "Letture Animate",
-    "title": "Storie sotto le Stelle",
-    "desc": "Letture ad alta voce con musica dal vivo per bambini",
-    "city": "Rivalta di Torino",
-    "venue": "Le Luci della Rivalta",
-    "date": "2026-11-14",
-    "time": "17:00",
-    "durationMin": 45,
-    "ageMin": 3,
-    "ageMax": 7,
-    "image": null,
-    "link": "https://www.lelucidellarivalta.com/eventi/"
-  },
-  {
-    "id": 2,
-    "category": "Open Day",
-    "title": "Porte Aperte al Castello",
-    "desc": "Visita guidata gratuita per famiglie con bambini",
-    "city": "Rivoli",
-    "venue": "Castello di Rivoli",
-    "date": "2026-11-15",
-    "time": "11:00",
-    "durationMin": 120,
-    "ageMin": 6,
-    "ageMax": 12,
-    "image": null,
-    "link": "https://www.castellodirivoli.org/educazione/attivita-famiglie/"
-  },
-  {
-    "id": 3,
     "category": "Workshop",
     "title": "Laboratorio di Pasta Fresca",
     "desc": "Impariamo a fare tagliatelle e ravioli con le mani",
@@ -45,7 +15,7 @@
     "link": "https://www.comune.orbassano.to.it"
   },
   {
-    "id": 4,
+    "id": 2,
     "category": "Event",
     "title": "Festa d'Autunno in Biblioteca",
     "desc": "Giochi, castagne e travestimenti per i più piccoli",
